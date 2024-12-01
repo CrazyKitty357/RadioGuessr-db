@@ -74,5 +74,6 @@
   { "date": "2024-12-10", "country": "Belarus","stationURL":"https://radio.garden/api/ara/content/listen/XeVMqbBx/channel.mp3?1732129809233","radioGarden":"https://radio.garden/listen/metal-heads/XeVMqbBx"},
   { "date": "2024-12-11", "country": "Russia","stationURL":"https://radio.garden/api/ara/content/listen/ZD8nSwtp/channel.mp3?1732129963891","radioGarden":"https://radio.garden/listen/101-ru-soulful-house/ZD8nSwtp"},
   { "date": "2024-12-12", "country": "Mexico","stationURL":"https://radio.garden/api/ara/content/listen/a3QdASnd/channel.mp3?1733082729778","radioGarden":"https://radio.garden/visit/tecamachalco/laKgKHIz"},
-  { "date": "2024-12-13", "country": "Russia", "stationURL":"https://radio.garden/api/ara/content/listen/ZD8nSwtp/channel.mp3?1733083519121","radioGarden":"https://radio.garden/listen/101-ru-soulful-house/ZD8nSwtp"}
+  { "date": "2024-12-13", "country": "Russia", "stationURL":"https://radio.garden/api/ara/content/listen/ZD8nSwtp/channel.mp3?1733083519121","radioGarden":"https://radio.garden/listen/101-ru-soulful-house/ZD8nSwtp"},
+  { "date":"2024-12-14", "country": "Philippines", "stationURL":"https://radio.garden/api/ara/content/listen/HbyF0DzL/channel.mp3?1733084590112", "radioGarden":"https://radio.garden/listen/christmas-radio-philippines/HbyF0DzL"}
 ]
