@@ -72,5 +72,7 @@
   { "date": "2024-12-08", "country": "United States","stationURL":"https://radio.garden/api/ara/content/listen/Ilmc2uaC/channel.mp3?1732129694406","radioGarden":"https://radio.garden/listen/soma-fm-xmas-in-frisko/Ilmc2uaC"},
   { "date": "2024-12-09", "country": "Netherlands","stationURL":"https://radio.garden/api/ara/content/listen/tmcBYSt1/channel.mp3?1732129738520","radioGarden":"https://radio.garden/listen/haarlem105-xmas-radio/tmcBYSt1"},
   { "date": "2024-12-10", "country": "Belarus","stationURL":"https://radio.garden/api/ara/content/listen/XeVMqbBx/channel.mp3?1732129809233","radioGarden":"https://radio.garden/listen/metal-heads/XeVMqbBx"},
-  { "date": "2024-12-11", "country": "Russia","stationURL":"https://radio.garden/api/ara/content/listen/ZD8nSwtp/channel.mp3?1732129963891","radioGarden":"https://radio.garden/listen/101-ru-soulful-house/ZD8nSwtp"}
+  { "date": "2024-12-11", "country": "Russia","stationURL":"https://radio.garden/api/ara/content/listen/ZD8nSwtp/channel.mp3?1732129963891","radioGarden":"https://radio.garden/listen/101-ru-soulful-house/ZD8nSwtp"},
+  { "date": "2024-12-12", "country": "Mexico","stationURL":"https://radio.garden/api/ara/content/listen/a3QdASnd/channel.mp3?1733082729778","radioGarden":"https://radio.garden/visit/tecamachalco/laKgKHIz"},
+  { "date": "2024-12-13", "country": "Russia", "stationURL":"https://radio.garden/api/ara/content/listen/ZD8nSwtp/channel.mp3?1733083519121","radioGarden":"https://radio.garden/listen/101-ru-soulful-house/ZD8nSwtp"}
 ]
