@@ -484,5 +484,11 @@
     "country": "Australia",
     "stationURL": "https://radio.garden/api/ara/content/listen/jKOM4sCv/channel.mp3?1738623183025",
     "radioGarden": "https://radio.garden/listen/quivr-radio/jKOM4sCv"
+  },
+  {
+    "date": "2025-02-05",
+    "country": "Brazil",
+    "stationURL": "https://radio.garden/api/ara/content/listen/DxJ3xQy2/channel.mp3?1738636104839",
+    "radioGarden": "https://radio.garden/listen/radio-nova-fm-95-3/DxJ3xQy2"
   }
 ]
