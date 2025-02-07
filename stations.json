@@ -496,5 +496,11 @@
     "country": "Peru",
     "stationURL": "https://radio.garden/api/ara/content/listen/qA1tfljP/channel.mp3?1738719919390",
     "radioGarden": "https://radio.garden/visit/arequipa/KV7yz8fw"
+  },
+  {
+    "date": "2025-02-08",
+    "country": "Kenya",
+    "stationURL": "https://radio.garden/api/ara/content/listen/0Yk3PIc0/channel.mp3?1738963182447",
+    "radioGarden": "https://radio.garden/listen/radio-italia-africa/0Yk3PIc0"
   }
 ]
