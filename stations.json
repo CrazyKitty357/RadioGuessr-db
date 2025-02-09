@@ -502,5 +502,11 @@
     "country": "Kenya",
     "stationURL": "https://radio.garden/api/ara/content/listen/0Yk3PIc0/channel.mp3?1738963182447",
     "radioGarden": "https://radio.garden/listen/radio-italia-africa/0Yk3PIc0"
+  },
+  {
+    "date": "2025-02-09",
+    "country": "Sri Lanka",
+    "stationURL": "https://radio.garden/api/ara/content/listen/Z94O7ukx/channel.mp3?1738963273137",
+    "radioGarden": "https://radio.garden/listen/kiss-fm-96-9/Z94O7ukx"
   }
 ]
