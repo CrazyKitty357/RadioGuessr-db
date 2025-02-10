@@ -508,5 +508,11 @@
     "country": "Sri Lanka",
     "stationURL": "https://radio.garden/api/ara/content/listen/Z94O7ukx/channel.mp3?1738963273137",
     "radioGarden": "https://radio.garden/listen/kiss-fm-96-9/Z94O7ukx"
+  },
+  {
+    "date": "2025-02-10",
+    "country": "Puerto Rico",
+    "stationURL": "https://radio.garden/api/ara/content/listen/9OB5LEls/channel.mp3?1738963559893",
+    "radioGarden": "https://radio.garden/listen/joaquin-opio-radio/9OB5LEls"
   }
 ]
