@@ -514,5 +514,11 @@
     "country": "Puerto Rico",
     "stationURL": "https://radio.garden/api/ara/content/listen/9OB5LEls/channel.mp3?1738963559893",
     "radioGarden": "https://radio.garden/listen/joaquin-opio-radio/9OB5LEls"
+  },
+  {
+    "date": "2025-02-11",
+    "country": "Bermuda",
+    "stationURL": "https://radio.garden/api/ara/content/listen/mqdXmYNU/channel.mp3?1738963837910",
+    "radioGarden": "https://radio.garden/listen/dr-dick-s-dub-shack/mqdXmYNU"
   }
 ]
