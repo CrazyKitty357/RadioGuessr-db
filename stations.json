@@ -521,10 +521,16 @@
     "stationURL": "https://radio.garden/api/ara/content/listen/mqdXmYNU/channel.mp3?1738963837910",
     "radioGarden": "https://radio.garden/listen/dr-dick-s-dub-shack/mqdXmYNU"
   },
-    {
+  {
     "date": "2025-02-12",
     "country": "Germany",
     "stationURL": "https://radio.garden/api/ara/content/listen/2ZcqeYJ1/channel.mp3?1738964043252",
     "radioGarden": "https://radio.garden/listen/gayfm/2ZcqeYJ1"
+  },
+  {
+    "date": "2025-02-14",
+    "country": "Thailand",
+    "stationURL": "https://radio.garden/api/ara/content/listen/odq4wZN4/channel.mp3?1738964611297",
+    "radioGarden": "https://radio.garden/listen/greenwave-106-5/odq4wZN4"
   }
 ]
