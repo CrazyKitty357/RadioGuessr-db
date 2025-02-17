@@ -532,5 +532,11 @@
     "country": "Thailand",
     "stationURL": "https://radio.garden/api/ara/content/listen/odq4wZN4/channel.mp3?1738964611297",
     "radioGarden": "https://radio.garden/listen/greenwave-106-5/odq4wZN4"
+  },
+  {
+    "date": "2025-02-17",
+    "country": "Philippines",
+    "stationURL": "https://radio.garden/api/ara/content/listen/U-QsFeoc/channel.mp3?1738964477404",
+    "radioGarden": "https://radio.garden/listen/star-fm-iloilo-99-5/U-QsFeoc"
   }
 ]
