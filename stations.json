@@ -538,5 +538,17 @@
     "country": "Philippines",
     "stationURL": "https://radio.garden/api/ara/content/listen/U-QsFeoc/channel.mp3?1738964477404",
     "radioGarden": "https://radio.garden/listen/star-fm-iloilo-99-5/U-QsFeoc"
+  },
+  {
+    "date": "2025-02-19",
+    "country": "Turkey",
+    "stationURL": "https://radio.garden/api/ara/content/listen/doeflwc2/channel.mp3?1738965020070",
+    "radioGarden": "https://radio.garden/listen/dinamo-deep/doeflwc2"
+  },
+  {
+    "date": "2025-02-20",
+    "country": "Japan",
+    "stationURL": "https://radio.garden/api/ara/content/listen/B-ro2l-v/channel.mp3?1738972614520",
+    "radioGarden": "https://radio.garden/listen/radio-eigekai-indies/B-ro2l-v"
   }
 ]
