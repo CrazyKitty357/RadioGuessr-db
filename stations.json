@@ -550,5 +550,11 @@
     "country": "Japan",
     "stationURL": "https://radio.garden/api/ara/content/listen/B-ro2l-v/channel.mp3?1738972614520",
     "radioGarden": "https://radio.garden/listen/radio-eigekai-indies/B-ro2l-v"
+  },
+  {
+    "date": "2025-02-22",
+    "country": "Malaysia",
+    "stationURL": "https://radio.garden/api/ara/content/listen/at2keZta/channel.mp3?1738985128929",
+    "radioGarden": "https://radio.garden/listen/mykampus-radio/at2keZta"
   }
 ]
