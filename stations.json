@@ -556,5 +556,17 @@
     "country": "Malaysia",
     "stationURL": "https://radio.garden/api/ara/content/listen/at2keZta/channel.mp3?1738985128929",
     "radioGarden": "https://radio.garden/listen/mykampus-radio/at2keZta"
+  },
+  {
+    "date": "2025-02-24",
+    "country": "Colombia",
+    "stationURL": "https://radio.garden/api/ara/content/listen/eK5LH5PB/channel.mp3?1740355997766",
+    "radioGarden": "https://radio.garden/listen/ciudad-stereo-tunja-94-7-fm/eK5LH5PB"
+  },
+  {
+    "date": "2025-02-25",
+    "country": "Germany",
+    "stationURL": "https://radio.garden/api/ara/content/listen/BMEVIz3Y/channel.mp3?1740355893747",
+    "radioGarden": "https://radio.garden/listen/toggo-radio/BMEVIz3Y"
   }
 ]
