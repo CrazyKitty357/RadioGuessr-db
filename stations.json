@@ -580,5 +580,11 @@
     "country": "United Kingdom",
     "stationURL": "https://radio.garden/api/ara/content/listen/jfhocVq-/channel.mp3?1740356710761",
     "radioGarden": "https://radio.garden/listen/hypedem-internet-radio/jfhocVq-"
+  },
+  {
+    "date": "2025-02-28",
+    "country": "Japan",
+    "stationURL": "https://radio.garden/api/ara/content/listen/spoipcw5/channel.mp3?1740356841717",
+    "radioGarden": "https://radio.garden/listen/j1-radio/spoipcw5"
   }
 ]
