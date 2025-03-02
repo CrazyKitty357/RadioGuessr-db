@@ -598,5 +598,11 @@
     "country": "South Africa",
     "stationURL": "https://radio.garden/api/ara/content/listen/-Ks3x8AD/channel.mp3?1740357478623",
     "radioGarden": "https://radio.garden/listen/rockingcrew-com/-Ks3x8AD"
+  },
+  {
+    "date": "2025-03-03",
+    "country": "Singapore",
+    "stationURL": "https://radio.garden/api/ara/content/listen/bwtkwUYz/channel.mp3?1740357763243",
+    "radioGarden": "https://radio.garden/listen/power-98-love-songs/bwtkwUYz"
   }
 ]
