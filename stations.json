@@ -592,5 +592,11 @@
     "country": "United States",
     "stationURL": "https://radio.garden/api/ara/content/listen/LMP3RGho/channel.mp3?1740357377270",
     "radioGarden": "https://radio.garden/listen/mega-890/LMP3RGho"
+  },
+  {
+    "date": "2025-03-02",
+    "country": "South Africa",
+    "stationURL": "https://radio.garden/api/ara/content/listen/-Ks3x8AD/channel.mp3?1740357478623",
+    "radioGarden": "https://radio.garden/listen/rockingcrew-com/-Ks3x8AD"
   }
 ]
