@@ -604,5 +604,11 @@
     "country": "Singapore",
     "stationURL": "https://radio.garden/api/ara/content/listen/bwtkwUYz/channel.mp3?1740357763243",
     "radioGarden": "https://radio.garden/listen/power-98-love-songs/bwtkwUYz"
+  },
+  {
+    "date": "2025-03-04",
+    "country": "Spain",
+    "stationURL": "https://radio.garden/api/ara/content/listen/rqWD9yyX/channel.mp3?1740947720999",
+    "radioGarden": "https://radio.garden/listen/canal-sur-musica/rqWD9yyX"
   }
 ]
