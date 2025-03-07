@@ -610,5 +610,11 @@
     "country": "Spain",
     "stationURL": "https://radio.garden/api/ara/content/listen/G4p3kbW1/channel.mp3?1741065991846",
     "radioGarden": "https://radio.garden/listen/latineo-fm-100-6/G4p3kbW1"
+  },
+  {
+    "date": "2025-03-07",
+    "country": "North Macedonia",
+    "stationURL": "https://radio.garden/api/ara/content/listen/A7Z3Jl1P/channel.mp3?1741066365148",
+    "radioGarden": "https://radio.garden/listen/star-radio/A7Z3Jl1P"
   }
 ]
