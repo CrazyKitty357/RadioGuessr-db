@@ -616,5 +616,11 @@
     "country": "North Macedonia",
     "stationURL": "https://radio.garden/api/ara/content/listen/A7Z3Jl1P/channel.mp3?1741066365148",
     "radioGarden": "https://radio.garden/listen/star-radio/A7Z3Jl1P"
+  },
+  {
+    "date": "2025-03-24",
+    "country": "United Kingdom",
+    "stationURL": "https://radio.garden/api/ara/content/listen/72jhTAtc/channel.mp3?1741066158446",
+    "radioGarden": "https://radio.garden/listen/mom-s-spaghetti/72jhTAtc"
   }
 ]
