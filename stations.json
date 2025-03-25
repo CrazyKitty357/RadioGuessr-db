@@ -622,5 +622,11 @@
     "country": "United Kingdom",
     "stationURL": "https://radio.garden/api/ara/content/listen/72jhTAtc/channel.mp3?1741066158446",
     "radioGarden": "https://radio.garden/listen/mom-s-spaghetti/72jhTAtc"
+  },
+  {
+    "date": "2025-03-25",
+    "country": "Ukraine",
+    "stationURL": "https://radio.garden/api/ara/content/listen/win0H0AI/channel.mp3?1742772119245",
+    "radioGarden": "https://radio.garden/listen/nrj/win0H0AI"
   }
 ]
