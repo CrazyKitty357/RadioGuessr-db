@@ -628,5 +628,11 @@
     "country": "Ukraine",
     "stationURL": "https://radio.garden/api/ara/content/listen/win0H0AI/channel.mp3?1742772119245",
     "radioGarden": "https://radio.garden/listen/nrj/win0H0AI"
+  },
+  {
+    "date": "2025-03-26",
+    "country": "Mexico",
+    "stationURL": "https://radio.garden/api/ara/content/listen/SYYbm0r0/channel.mp3?1742772509304",
+    "radioGarden": "https://radio.garden/listen/fiesta-104-9-fm/SYYbm0r0"
   }
 ]
