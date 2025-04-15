@@ -634,5 +634,17 @@
     "country": "Mexico",
     "stationURL": "https://radio.garden/api/ara/content/listen/SYYbm0r0/channel.mp3?1742772509304",
     "radioGarden": "https://radio.garden/listen/fiesta-104-9-fm/SYYbm0r0"
+  },
+  {
+    "date": "2025-04-15",
+    "country": "New Zealand",
+    "stationURL": "https://radio.garden/api/ara/content/listen/X77Pz9Rz/channel.mp3?1742772589682",
+    "radioGarden": "https://radio.garden/listen/dave-fm/X77Pz9Rz"
+  },
+  {
+    "date": "2025-04-16",
+    "country": "United States",
+    "stationURL": "https://radio.garden/api/ara/content/listen/Vyeq7mZ7/channel.mp3?1742772729576",
+    "radioGarden": "https://radio.garden/listen/chitown-house-radio/Vyeq7mZ7"
   }
 ]
