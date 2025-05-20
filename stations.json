@@ -646,5 +646,11 @@
     "country": "United States",
     "stationURL": "https://radio.garden/api/ara/content/listen/Vyeq7mZ7/channel.mp3?1742772729576",
     "radioGarden": "https://radio.garden/listen/chitown-house-radio/Vyeq7mZ7"
+  },
+  {
+    "date": "2025-05-20",
+    "country": "Malaysia",
+    "stationURL": "https://radio.garden/api/ara/content/listen/vvcdCKWc/channel.mp3?1742773037250",
+    "radioGarden": "https://radio.garden/listen/radio-klasik/vvcdCKWc"
   }
 ]
