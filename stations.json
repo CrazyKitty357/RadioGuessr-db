@@ -652,5 +652,11 @@
     "country": "Brazil",
     "stationURL": "https://radio.garden/api/ara/content/listen/vMgarq9h/channel.mp3?1742773176033",
     "radioGarden": "https://radio.garden/listen/radio-ep-fm-84-9/vMgarq9h"
+  },
+  {
+    "date": "2025-05-21",
+    "country": "Spain",
+    "stationURL": "https://radio.garden/api/ara/content/listen/rfLTUuW7/channel.mp3?1747738333997",
+    "radioGarden": "https://radio.garden/listen/das-inselradio-mallorca/rfLTUuW7"
   }
 ]
