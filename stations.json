@@ -658,5 +658,11 @@
     "country": "Spain",
     "stationURL": "https://radio.garden/api/ara/content/listen/rfLTUuW7/channel.mp3?1747738333997",
     "radioGarden": "https://radio.garden/listen/das-inselradio-mallorca/rfLTUuW7"
+  },
+  {
+    "date": "2025-05-22",
+    "country": "Netherlands",
+    "stationURL": "https://radio.garden/api/ara/content/listen/wdxJg7u-/channel.mp3?1747739126914",
+    "radioGarden": "https://radio.garden/listen/hardcore-radio/wdxJg7u-"
   }
 ]
