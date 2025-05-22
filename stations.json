@@ -664,5 +664,11 @@
     "country": "Netherlands",
     "stationURL": "https://radio.garden/api/ara/content/listen/wdxJg7u-/channel.mp3?1747739126914",
     "radioGarden": "https://radio.garden/listen/hardcore-radio/wdxJg7u-"
+  },
+  {
+    "date": "2025-05-23",
+    "country": "Belgium",
+    "stationURL": "https://radio.garden/api/ara/content/listen/bwhU08RT/channel.mp3?1747739364056",
+    "radioGarden": "https://radio.garden/listen/rcf-bruxelles/bwhU08RT"
   }
 ]
