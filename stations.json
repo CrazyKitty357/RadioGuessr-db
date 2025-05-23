@@ -670,5 +670,11 @@
     "country": "Belgium",
     "stationURL": "https://radio.garden/api/ara/content/listen/bwhU08RT/channel.mp3?1747739364056",
     "radioGarden": "https://radio.garden/listen/rcf-bruxelles/bwhU08RT"
+  },
+  {
+    "date": "2025-05-24",
+    "country": "Monaco",
+    "stationURL": "https://radio.garden/api/ara/content/listen/H9kLGV6s/channel.mp3?1747739782496",
+    "radioGarden": "https://radio.garden/listen/radio-yacht-fr/H9kLGV6s"
   }
 ]
