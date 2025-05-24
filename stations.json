@@ -676,5 +676,11 @@
     "country": "Monaco",
     "stationURL": "https://radio.garden/api/ara/content/listen/H9kLGV6s/channel.mp3?1747739782496",
     "radioGarden": "https://radio.garden/listen/radio-yacht-fr/H9kLGV6s"
+  },
+  {
+    "date": "2025-05-25",
+    "country": "United Kingdom",
+    "stationURL": "https://radio.garden/api/ara/content/listen/wyQAXRZA/channel.mp3?1747740187256",
+    "radioGarden": "https://radio.garden/listen/starpointradio/wyQAXRZA"
   }
 ]
