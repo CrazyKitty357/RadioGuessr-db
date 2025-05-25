@@ -682,5 +682,11 @@
     "country": "United Kingdom",
     "stationURL": "https://radio.garden/api/ara/content/listen/wyQAXRZA/channel.mp3?1747740187256",
     "radioGarden": "https://radio.garden/listen/starpointradio/wyQAXRZA"
+  },
+  {
+    "date": "2025-05-26",
+    "country": "United States",
+    "stationURL": "https://radio.garden/api/ara/content/listen/PAcMO7Am/channel.mp3?1747742021986",
+    "radioGarden": "https://radio.garden/listen/soma-fm-bossa-beyond/PAcMO7Am"
   }
 ]
