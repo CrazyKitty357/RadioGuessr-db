@@ -688,5 +688,11 @@
     "country": "United States",
     "stationURL": "https://radio.garden/api/ara/content/listen/PAcMO7Am/channel.mp3?1747742021986",
     "radioGarden": "https://radio.garden/listen/soma-fm-bossa-beyond/PAcMO7Am"
+  },
+  {
+    "date": "2025-05-27",
+    "country": "Japan",
+    "stationURL": "https://radio.garden/api/ara/content/listen/agGPOrdP/channel.mp3?1747742158075",
+    "radioGarden": "https://radio.garden/listen/ashiyaradio/agGPOrdP"
   }
 ]
