@@ -694,5 +694,11 @@
     "country": "Japan",
     "stationURL": "https://radio.garden/api/ara/content/listen/agGPOrdP/channel.mp3?1747742158075",
     "radioGarden": "https://radio.garden/listen/ashiyaradio/agGPOrdP"
+  },
+  {
+    "date": "2025-05-28",
+    "country": "Iceland",
+    "stationURL": "https://radio.garden/api/ara/content/listen/cr9vnQt2/channel.mp3?1747742340301",
+    "radioGarden": "https://radio.garden/listen/jahta-radio-live/cr9vnQt2"
   }
 ]
