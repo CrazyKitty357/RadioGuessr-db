@@ -700,5 +700,11 @@
     "country": "Iceland",
     "stationURL": "https://radio.garden/api/ara/content/listen/cr9vnQt2/channel.mp3?1747742340301",
     "radioGarden": "https://radio.garden/listen/jahta-radio-live/cr9vnQt2"
+  },
+  {
+    "date": "2025-05-29",
+    "country": "United States",
+    "stationURL": "https://radio.garden/api/ara/content/listen/G_H8HAT0/channel.mp3?1747742571467",
+    "radioGarden": "https://radio.garden/listen/soul-good-radio/G_H8HAT0"
   }
 ]
