@@ -706,5 +706,11 @@
     "country": "United States",
     "stationURL": "https://radio.garden/api/ara/content/listen/G_H8HAT0/channel.mp3?1747742571467",
     "radioGarden": "https://radio.garden/listen/soul-good-radio/G_H8HAT0"
+  },
+  {
+    "date": "2025-05-30",
+    "country": "South Africa",
+    "stationURL": "https://radio.garden/api/ara/content/listen/8VY5hmgi/channel.mp3?1747743025168",
+    "radioGarden": "https://radio.garden/listen/tshwane-fm-93-6/8VY5hmgi"
   }
 ]
