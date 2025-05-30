@@ -712,5 +712,11 @@
     "country": "South Africa",
     "stationURL": "https://radio.garden/api/ara/content/listen/8VY5hmgi/channel.mp3?1747743025168",
     "radioGarden": "https://radio.garden/listen/tshwane-fm-93-6/8VY5hmgi"
+  },
+  {
+    "date": "2025-05-31",
+    "country": "Panama",
+    "stationURL": "https://radio.garden/api/ara/content/listen/FdKlNT87/channel.mp3?1747743099531",
+    "radioGarden": "https://radio.garden/listen/super-q-panama/FdKlNT87"
   }
 ]
