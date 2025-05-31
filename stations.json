@@ -718,5 +718,11 @@
     "country": "Panama",
     "stationURL": "https://radio.garden/api/ara/content/listen/FdKlNT87/channel.mp3?1747743099531",
     "radioGarden": "https://radio.garden/listen/super-q-panama/FdKlNT87"
+  },
+  {
+    "date": "2025-06-01",
+    "country": "Poland",
+    "stationURL": "https://radio.garden/api/ara/content/listen/dewIbD6B/channel.mp3?1747744034729",
+    "radioGarden": "https://radio.garden/listen/radio-anime24/dewIbD6B"
   }
 ]
