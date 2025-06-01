@@ -724,5 +724,11 @@
     "country": "Poland",
     "stationURL": "https://radio.garden/api/ara/content/listen/dewIbD6B/channel.mp3?1747744034729",
     "radioGarden": "https://radio.garden/listen/radio-anime24/dewIbD6B"
+  },
+  {
+    "date": "2025-06-02",
+    "country": "Australia",
+    "stationURL": "https://radio.garden/api/ara/content/listen/xnYpDL3v/channel.mp3?1747744738691",
+    "radioGarden": "https://radio.garden/listen/radio-oberlausitz-international/xnYpDL3v"
   }
 ]
