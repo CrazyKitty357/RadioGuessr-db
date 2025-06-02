@@ -730,5 +730,11 @@
     "country": "Australia",
     "stationURL": "https://radio.garden/api/ara/content/listen/xnYpDL3v/channel.mp3?1747744738691",
     "radioGarden": "https://radio.garden/listen/radio-oberlausitz-international/xnYpDL3v"
+  },
+  {
+    "date": "2025-06-03",
+    "country": "Canada",
+    "stationURL": "https://radio.garden/api/ara/content/listen/oARBtcs4/channel.mp3?1747744897909",
+    "radioGarden": "https://radio.garden/listen/cixx-fm/oARBtcs4"
   }
 ]
