@@ -736,5 +736,11 @@
     "country": "Canada",
     "stationURL": "https://radio.garden/api/ara/content/listen/oARBtcs4/channel.mp3?1747744897909",
     "radioGarden": "https://radio.garden/listen/cixx-fm/oARBtcs4"
+  },
+  {
+    "date": "2025-06-04",
+    "country": "Romania",
+    "stationURL": "https://radio.garden/api/ara/content/listen/kl91Y5UY/channel.mp3?1748543778825",
+    "radioGarden": "https://radio.garden/listen/radio-clasic-100-romanesc/kl91Y5UY"
   }
 ]
