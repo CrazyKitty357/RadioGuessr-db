@@ -742,5 +742,11 @@
     "country": "Romania",
     "stationURL": "https://radio.garden/api/ara/content/listen/kl91Y5UY/channel.mp3?1748543778825",
     "radioGarden": "https://radio.garden/listen/radio-clasic-100-romanesc/kl91Y5UY"
+  },
+  {
+    "date": "2025-06-05",
+    "country": "Singapore",
+    "stationURL": "https://radio.garden/api/ara/content/listen/Eyo-znI_/channel.mp3?1748544033866",
+    "radioGarden": "https://radio.garden/listen/radio-96-3-fm/Eyo-znI_"
   }
 ]
