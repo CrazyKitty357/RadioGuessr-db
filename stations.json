@@ -748,5 +748,11 @@
     "country": "Singapore",
     "stationURL": "https://radio.garden/api/ara/content/listen/Eyo-znI_/channel.mp3?1748544033866",
     "radioGarden": "https://radio.garden/listen/radio-96-3-fm/Eyo-znI_"
+  },
+  {
+    "date": "2025-06-06",
+    "country": "Australia",
+    "stationURL": "https://radio.garden/api/ara/content/listen/1xwKSIJO/channel.mp3?1748544670329",
+    "radioGarden": "https://radio.garden/listen/tab-live-radio/1xwKSIJO"
   }
 ]
