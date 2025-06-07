@@ -760,5 +760,11 @@
     "country": "Mexico",
     "stationURL": "https://radio.garden/api/ara/content/listen/LDp8CSnb/channel.mp3?1748545106380",
     "radioGarden": "https://radio.garden/listen/radio-uabcs-1180-am/LDp8CSnb"
+  },
+  {
+    "date": "2025-06-08",
+    "country": "Germany",
+    "stationURL": "https://radio.garden/api/ara/content/listen/fEjlBLys/channel.mp3?1749050578054",
+    "radioGarden": "https://radio.garden/listen/gay-radio/fEjlBLys"
   }
 ]
