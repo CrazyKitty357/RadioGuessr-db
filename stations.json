@@ -766,5 +766,11 @@
     "country": "Germany",
     "stationURL": "https://radio.garden/api/ara/content/listen/fEjlBLys/channel.mp3?1749050578054",
     "radioGarden": "https://radio.garden/listen/gay-radio/fEjlBLys"
+  },
+  {
+    "date": "2025-06-09",
+    "country": "Ireland",
+    "stationURL": "https://radio.garden/api/ara/content/listen/SSRTKQEs/channel.mp3?1749051687967",
+    "radioGarden": "https://radio.garden/listen/noughty-dublin/SSRTKQEs"
   }
 ]
