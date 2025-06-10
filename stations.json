@@ -772,5 +772,11 @@
     "country": "Ireland",
     "stationURL": "https://radio.garden/api/ara/content/listen/SSRTKQEs/channel.mp3?1749051687967",
     "radioGarden": "https://radio.garden/listen/noughty-dublin/SSRTKQEs"
+  },
+  {
+    "date": "2025-06-10",
+    "country": "France",
+    "stationURL": "https://radio.garden/visit/clichy/HsUHqrdp",
+    "radioGarden": "https://radio.garden/api/ara/content/listen/AiJ9IBda/channel.mp3?1749052476314"
   }
 ]
