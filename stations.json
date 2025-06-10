@@ -778,5 +778,11 @@
     "country": "France",
     "stationURL": "https://radio.garden/api/ara/content/listen/AiJ9IBda/channel.mp3?1749525306528",
     "radioGarden": "https://radio.garden/visit/clichy/HsUHqrdp"
+  },
+  {
+    "date": "2025-06-11",
+    "country": "Italy",
+    "stationURL": "https://radio.garden/api/ara/content/listen/cfaBaQUB/channel.mp3?1749592675319",
+    "radioGarden": "https://radio.garden/listen/radio-godot/cfaBaQUB"
   }
 ]
