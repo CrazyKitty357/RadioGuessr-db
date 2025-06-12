@@ -790,5 +790,11 @@
     "country": "France",
     "stationURL": "https://radio.garden/api/ara/content/listen/Lcd4segb/channel.mp3?1749592872597",
     "radioGarden": "https://radio.garden/listen/gay-radio/Lcd4segb"
+  },
+  {
+    "date": "2025-06-13",
+    "country": "Brazil",
+    "stationURL": "https://radio.garden/api/ara/content/listen/ChzkdlXf/channel.mp3?1749762535849",
+    "radioGarden": "https://radio.garden/listen/tropical-fm/ChzkdlXf"
   }
 ]
