@@ -784,5 +784,11 @@
     "country": "Italy",
     "stationURL": "https://radio.garden/api/ara/content/listen/cfaBaQUB/channel.mp3?1749592675319",
     "radioGarden": "https://radio.garden/listen/radio-godot/cfaBaQUB"
+  },
+  {
+    "date": "2025-06-12",
+    "country": "France",
+    "stationURL": "https://radio.garden/api/ara/content/listen/Lcd4segb/channel.mp3?1749592872597",
+    "radioGarden": "https://radio.garden/listen/gay-radio/Lcd4segb"
   }
 ]
