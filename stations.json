@@ -796,5 +796,11 @@
     "country": "Brazil",
     "stationURL": "https://radio.garden/api/ara/content/listen/ChzkdlXf/channel.mp3?1749762535849",
     "radioGarden": "https://radio.garden/listen/tropical-fm/ChzkdlXf"
+  },
+  {
+    "date": "2025-06-14",
+    "country": "United States",
+    "stationURL": "https://radio.garden/api/ara/content/listen/AHGEpjgd/channel.mp3?1749762969084",
+    "radioGarden": "https://radio.garden/listen/wvro-soul/AHGEpjgd"
   }
 ]
