@@ -802,5 +802,11 @@
     "country": "United States",
     "stationURL": "https://radio.garden/api/ara/content/listen/AHGEpjgd/channel.mp3?1749762969084",
     "radioGarden": "https://radio.garden/listen/wvro-soul/AHGEpjgd"
+  },
+  {
+    "date": "2025-06-15",
+    "country": "Germany",
+    "stationURL": "https://radio.garden/api/ara/content/listen/V9Ewdgyg/channel.mp3?1749763251577",
+    "radioGarden": "https://radio.garden/listen/nebenwelten/V9Ewdgyg"
   }
 ]
