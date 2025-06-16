@@ -808,5 +808,11 @@
     "country": "Germany",
     "stationURL": "https://radio.garden/api/ara/content/listen/V9Ewdgyg/channel.mp3?1749763251577",
     "radioGarden": "https://radio.garden/listen/nebenwelten/V9Ewdgyg"
+  },
+  {
+    "date": "2025-06-16",
+    "country": "Mexico",
+    "stationURL": "https://radio.garden/api/ara/content/listen/asUffF36/channel.mp3?1749764305287",
+    "radioGarden": "https://radio.garden/listen/la-grupera/asUffF36"
   }
 ]
