@@ -844,5 +844,11 @@
     "country": "Guatemala",
     "stationURL": "https://radio.garden/api/ara/content/listen/wQ8ucZMr/channel.mp3?1750578351478",
     "radioGarden": "https://radio.garden/listen/radio-infinita-fm-100-1/wQ8ucZMr"
+  },
+  {
+    "date": "2025-06-22",
+    "country": "Cyprus",
+    "stationURL": "https://radio.garden/api/ara/content/listen/a_vL9amz/channel.mp3?1750579839319",
+    "radioGarden": "https://radio.garden/listen/viva-fm/a_vL9amz"
   }
 ]
