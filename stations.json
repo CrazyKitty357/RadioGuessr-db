@@ -841,8 +841,8 @@
   },
   {
     "date": "2025-06-21",
-    "country": "",
-    "stationURL": "",
-    "radioGarden": ""
+    "country": "Guatemala",
+    "stationURL": "https://radio.garden/api/ara/content/listen/wQ8ucZMr/channel.mp3?1750578351478",
+    "radioGarden": "https://radio.garden/listen/radio-infinita-fm-100-1/wQ8ucZMr"
   }
 ]
