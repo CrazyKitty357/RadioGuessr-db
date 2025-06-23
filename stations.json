@@ -850,5 +850,11 @@
     "country": "Cyprus",
     "stationURL": "https://radio.garden/api/ara/content/listen/a_vL9amz/channel.mp3?1750579839319",
     "radioGarden": "https://radio.garden/listen/viva-fm/a_vL9amz"
+  },
+  {
+    "date": "2025-06-23",
+    "country": "Dominican Republic",
+    "stationURL": "https://radio.garden/api/ara/content/listen/ebubKgz9/channel.mp3?1750579922251",
+    "radioGarden": "https://radio.garden/listen/radio-espacial/ebubKgz9"
   }
 ]
